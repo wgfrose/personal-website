@@ -1,0 +1,4 @@
+baseURL = "https://william.rose/"
+languageCode = "en-gb"
+title = "William's World"
+theme = "hugo-coder"
