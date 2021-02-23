@@ -1,4 +1,113 @@
 baseURL = "https://william.rose/"
-languageCode = "en-gb"
-title = "William's World"
+languageCode = "en-GB"
+title = "Will's Space"
 theme = "hugo-coder"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+canonifyURLs = true
+enableRobotsTXT = true
+
+[sitemap]
+    changefreq = "weekly"
+    priority = 0.5
+
+[params]
+    author = "William Rose"
+    info = "- Backend Engineer 👨🏼‍💻<br/>- Keyboard builder ⌨️<br/>- Synth hobbyist 🎹"
+    description = "William Rose's personal website"
+    keywords = "blog,developer,personal"
+    avatarurl = "avatar.jpeg"
+    #gravatar = ""
+
+    dateFormat = "2 January, 2006"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = ""
+    hideFooter = false
+    hideCredits = true
+    hideCopyright = false
+    copyright = "William Rose"
+    since = 2021
+
+    enableTwemoji = true
+
+    colorScheme = "auto"
+    hidecolorschemetoggle = false
+
+    customCSS = ["css/custom.css"]
+    #customSCSS = ["scss/custom.scss"]
+    customJS = ["js/custom.js"]
+
+[params.csp]
+	childsrc = ["'self'"]
+	fontsrc = [
+        "'self'",
+		"https://fonts.gstatic.com",
+        "https://fonts.googleapis.com/",
+		"https://cdn.jsdelivr.net/"
+    ]
+	formaction = ["'self'"]
+	framesrc = ["'self'"]
+	imgsrc = ["'self'"]
+	objectsrc = ["'none'"]
+	stylesrc = [
+        "'self'",
+		"'unsafe-inline'",
+		"https://fonts.googleapis.com/",
+		"https://cdn.jsdelivr.net/"
+    ]
+	scriptsrc = [
+        "'self'",
+		"'unsafe-inline'",
+        "https://fonts.googleapis.com/",
+		"https://www.google-analytics.com"
+    ]
+	prefetchsrc = ["'self'"]
+
+[permalinks]
+    posts = "/:year/:month/:day/:slug"
+    page = "/:slug"
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
+
+# Social links
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/wgfrose/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fa fa-twitter fa-2x"
+    weight = 3
+    url = "https://twitter.com/wgfrose/"
+[[params.social]]
+    name = "Email"
+    icon = "fa fa-envelope fa-2x"
+    weight = 1
+    url = "mailto:wgfrose@gmail.com"
+
+# Menu links
+[[menu.main]]
+    name = "Captain's Log"
+    weight = 1
+    url  = "posts/"
+[[menu.main]]
+    name = "About Me"
+    weight = 2
+    url = "about/"
+
+[imaging]
+    quality = 75
+    anchor = "smart"

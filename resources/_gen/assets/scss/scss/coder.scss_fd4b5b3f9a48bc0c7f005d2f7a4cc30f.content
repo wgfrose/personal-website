@@ -2884,8 +2884,8 @@ html {
 
 body {
   color: #212121;
-  background-color: #FAFAFA;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  background-color: #FFFDDE;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, monospace;
   font-size: 1.8em;
   font-weight: 400;
   line-height: 1.8em; }
@@ -2895,7 +2895,7 @@ body {
       line-height: 1.6em; } }
 a {
   font-weight: 500;
-  color: #1565c0;
+  color: #1565C0;
   text-decoration: none;
   transition: all .25s ease-in; }
   a:focus, a:hover {
@@ -2910,9 +2910,9 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, monospace;
   font-weight: 600;
-  color: #000;
+  color: #000000;
   margin: 4rem 0 2.5rem 0; }
   h1:hover .heading-link,
   h2:hover .heading-link,
@@ -2927,7 +2927,7 @@ h6 {
   h4 .heading-link,
   h5 .heading-link,
   h6 .heading-link {
-    color: #1565c0;
+    color: #1565C0;
     font-weight: inherit;
     text-decoration: none;
     font-size: 80%;
@@ -3010,11 +3010,11 @@ code {
   font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
   font-size: 1.6rem;
   font-weight: 400;
-  background-color: #E0E0E0;
+  background-color: #FFFDDE;
   color: #212121; }
 
 blockquote {
-  border-left: 2px solid #E0E0E0;
+  border-left: 2px solid #FFFDDE;
   padding-left: 2.0rem;
   line-height: 2.2rem;
   font-weight: 400;
@@ -3027,7 +3027,7 @@ table {
   border-collapse: collapse; }
 
 table td, table th {
-  border: 2px solid #000; }
+  border: 2px solid #000000; }
 
 table tr:first-child th {
   border-top: 0; }
@@ -3134,7 +3134,7 @@ img.emoji {
     margin: 0; }
 
 .avatar img {
-  width: 20rem;
+  width: 15rem;
   height: auto;
   border-radius: 50%; }
   @media only screen and (max-width: 768px) {
@@ -3163,10 +3163,10 @@ img.emoji {
       font-size: 1.8rem;
       flex: 2;
       color: #212121;
-      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, monospace;
       font-weight: 700; }
       .list ul li .title:hover, .list ul li .title:focus {
-        color: #1565c0; }
+        color: #1565C0; }
 
 @media only screen and (min-width: 768.1px) {
   .list ul:not(.pagination) li {
@@ -3202,7 +3202,7 @@ img.emoji {
           margin-right: 1.0rem;
           font-size: 1.6rem; }
           .centered .about ul li a:hover, .centered .about ul li a:focus {
-            color: #1565c0; }
+            color: #1565C0; }
           @media only screen and (max-width: 768px) {
             .centered .about ul li a {
               font-size: 1.4rem; } }
@@ -3230,12 +3230,12 @@ img.emoji {
   .navigation a, .navigation span {
     display: inline;
     font-size: 1.7rem;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, monospace;
     font-weight: 600;
     line-height: 6.0rem;
     color: #212121; }
   .navigation a:hover, .navigation a:focus {
-    color: #1565c0; }
+    color: #1565C0; }
   .navigation .navigation-title {
     letter-spacing: 0.1rem;
     text-transform: uppercase; }
@@ -3255,9 +3255,9 @@ img.emoji {
         padding: 0;
         max-height: 0;
         width: 100%;
-        background-color: #FAFAFA;
-        border-top: solid 2px #E0E0E0;
-        border-bottom: solid 2px #E0E0E0;
+        background-color: #FFFDDE;
+        border-top: solid 2px #FFFDDE;
+        border-bottom: solid 2px #FFFDDE;
         transition: opacity 0.25s, max-height 0.15s linear; } }
     .navigation .navigation-list .navigation-item {
       float: left;
@@ -3293,7 +3293,7 @@ img.emoji {
     display: none; }
     @media only screen and (max-width: 768px) {
       .navigation #menu-toggle:checked + label > i {
-        color: #E0E0E0; }
+        color: #FFFDDE; }
       .navigation #menu-toggle:checked + label + ul {
         visibility: visible;
         opacity: 1;
@@ -3307,17 +3307,17 @@ img.emoji {
         font-size: 2.4rem;
         font-weight: 400; } }
     .navigation .menu-button i:hover, .navigation .menu-button i:focus {
-      color: #000; }
+      color: #000000; }
   .navigation i {
     color: #212121;
     cursor: pointer; }
     .navigation i:hover, .navigation i:focus {
-      color: #1565c0; }
+      color: #1565C0; }
 
 .pagination {
   margin-top: 6.0rem;
   text-align: center;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji; }
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, monospace; }
   .pagination li {
     display: inline;
     text-align: center;
@@ -3340,7 +3340,7 @@ img.emoji {
   line-height: 2.0rem;
   margin-bottom: 1.0rem; }
   .footer a {
-    color: #1565c0; }
+    color: #1565C0; }
 
 .float-container {
   bottom: 2rem;
@@ -3353,18 +3353,18 @@ img.emoji {
     text-align: center;
     width: 3.0rem;
     height: 3.0rem;
-    color: #000;
-    background-color: #E0E0E0;
+    color: #000000;
+    background-color: #FFFDDE;
     font-size: 2.0rem;
     border-radius: 0.5rem;
     opacity: 50%;
     transition: all .25s ease-in; }
     .float-container a:hover, .float-container a:focus {
-      color: #1565c0;
+      color: #1565C0;
       opacity: 100%; }
       @media only screen and (max-width: 768px) {
         .float-container a:hover, .float-container a:focus {
-          color: #000;
+          color: #000000;
           opacity: 50%; } }
 
 /*# sourceMappingURL=coder.css.map */
