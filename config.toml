@@ -72,7 +72,7 @@ enableRobotsTXT = true
 	prefetchsrc = ["'self'"]
 
 [permalinks]
-    posts = "/:year/:month/:day/:slug"
+    posts = "/:slug"
     page = "/:slug"
 
 [taxonomies]
