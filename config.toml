@@ -1,4 +1,4 @@
-baseURL = "https://wgfrose.github.io/"
+baseURL = "https://wgfrose.github.io/personal-website/"
 languageCode = "en-GB"
 title = "Will's Space"
 theme = "hugo-coder"

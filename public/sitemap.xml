@@ -3,37 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wgfrose.github.io/about/</loc>
+    <loc>https://wgfrose.github.io/personal-website/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wgfrose.github.io/authors/</loc>
+    <loc>https://wgfrose.github.io/personal-website/authors/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wgfrose.github.io/categories/</loc>
+    <loc>https://wgfrose.github.io/personal-website/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wgfrose.github.io/series/</loc>
+    <loc>https://wgfrose.github.io/personal-website/series/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wgfrose.github.io/tags/</loc>
+    <loc>https://wgfrose.github.io/personal-website/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://wgfrose.github.io/</loc>
+    <loc>https://wgfrose.github.io/personal-website/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

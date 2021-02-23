@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will&#39;s Space</title>
-    <link>https://wgfrose.github.io/</link>
+    <link>https://wgfrose.github.io/personal-website/</link>
     <description>Recent content on Will&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language><atom:link href="https://wgfrose.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language><atom:link href="https://wgfrose.github.io/personal-website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://wgfrose.github.io/about/</link>
+      <link>https://wgfrose.github.io/personal-website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wgfrose.github.io/about/</guid>
+      <guid>https://wgfrose.github.io/personal-website/about/</guid>
       <description>Hello there! My name is Will, I&amp;rsquo;m a backend software engineer based near Bristol in the UK. Currently, I&amp;rsquo;m an engineer within the Civil Service, having interned here in 2016 and started full time in 2017. In 2017 I also received my computer science degree with first class honours from the University of Newcastle upon Tyne in the UK.
 While at work, I build exciting new systems while maintaining and improving legacy ones.</description>
     </item>
