@@ -1,6 +1,6 @@
-baseURL = "https://wgfrose.github.io/personal-website/"
+baseURL = "https://rose-log.in/"
 languageCode = "en-GB"
-title = "Will's Space"
+title = "Rose's Log-In"
 theme = "hugo-coder"
 
 paginate = 20
@@ -100,7 +100,7 @@ enableRobotsTXT = true
 
 # Menu links
 [[menu.main]]
-    name = "Captain's Log"
+    name = "Blog"
     weight = 1
     url  = "posts/"
 [[menu.main]]

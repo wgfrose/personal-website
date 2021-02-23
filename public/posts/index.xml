@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Will&#39;s Space</title>
-    <link>https://wgfrose.github.io/personal-website/posts/</link>
-    <description>Recent content in Posts on Will&#39;s Space</description>
+    <title>Posts on Rose&#39;s Log-In</title>
+    <link>https://rose-log.in/posts/</link>
+    <description>Recent content in Posts on Rose&#39;s Log-In</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Thu, 14 Jan 2021 10:59:29 +0000</lastBuildDate><atom:link href="https://wgfrose.github.io/personal-website/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 10:59:29 +0000</lastBuildDate><atom:link href="https://rose-log.in/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, world!</title>
-      <link>https://wgfrose.github.io/personal-website/hello-world/</link>
+      <link>https://rose-log.in/hello-world/</link>
       <pubDate>Thu, 14 Jan 2021 10:59:29 +0000</pubDate>
       
-      <guid>https://wgfrose.github.io/personal-website/hello-world/</guid>
+      <guid>https://rose-log.in/hello-world/</guid>
       <description>Hey everyone! My name is Will and I&amp;rsquo;m an engineer based near Bristol, in the UK.
 The reason I started this space was to write about what I&amp;rsquo;ve been doing and am currently doing in work and in my spare time. As well as to provide resources for people who want to start long and happy careers in technology. I will also help demystify some common terms that fly around in the industry (what the heck is a hackathon?</description>
     </item>

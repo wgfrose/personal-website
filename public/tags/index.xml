@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Will&#39;s Space</title>
-    <link>https://wgfrose.github.io/personal-website/tags/</link>
-    <description>Recent content in Tags on Will&#39;s Space</description>
+    <title>Tags on Rose&#39;s Log-In</title>
+    <link>https://rose-log.in/tags/</link>
+    <description>Recent content in Tags on Rose&#39;s Log-In</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Thu, 14 Jan 2021 10:59:29 +0000</lastBuildDate><atom:link href="https://wgfrose.github.io/personal-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jan 2021 10:59:29 +0000</lastBuildDate><atom:link href="https://rose-log.in/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>personal</title>
-      <link>https://wgfrose.github.io/personal-website/tags/personal/</link>
+      <link>https://rose-log.in/tags/personal/</link>
       <pubDate>Thu, 14 Jan 2021 10:59:29 +0000</pubDate>
       
-      <guid>https://wgfrose.github.io/personal-website/tags/personal/</guid>
+      <guid>https://rose-log.in/tags/personal/</guid>
       <description></description>
     </item>
     
