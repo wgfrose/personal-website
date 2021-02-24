@@ -2898,8 +2898,6 @@ a {
   color: #1565C0;
   text-decoration: none;
   transition: all .25s ease-in; }
-  a:focus, a:hover {
-    text-decoration: underline; }
 
 p {
   margin: 2.0rem 0 2.0rem 0; }
@@ -3230,7 +3228,6 @@ img.emoji {
   .navigation a, .navigation span {
     display: inline;
     font-size: 1.7rem;
-    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, monospace;
     font-weight: 600;
     line-height: 6.0rem;
     color: #212121; }

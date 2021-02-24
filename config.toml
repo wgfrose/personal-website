@@ -21,8 +21,7 @@ enableRobotsTXT = true
     info = "- Backend Engineer 👨🏼‍💻<br/>- Keyboard builder ⌨️<br/>- Synth hobbyist 🎹"
     description = "William Rose's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "avatar.jpeg"
-    #gravatar = ""
+    avatarurl = "/img/avatar.jpeg"
 
     dateFormat = "2 January, 2006"
 
@@ -42,7 +41,6 @@ enableRobotsTXT = true
     hidecolorschemetoggle = false
 
     customCSS = ["css/custom.css"]
-    #customSCSS = ["scss/custom.scss"]
     customJS = ["js/custom.js"]
 
 [params.csp]
