@@ -1,6 +1,6 @@
 baseURL = "https://rose-log.in/"
 languageCode = "en-GB"
-title = "Rose's Log-In"
+title = "Will's Space"
 theme = "hugo-coder"
 
 paginate = 20
