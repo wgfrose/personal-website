@@ -41,7 +41,6 @@ enableRobotsTXT = true
     hidecolorschemetoggle = false
 
     customCSS = ["css/custom.css"]
-    customJS = ["js/custom.js"]
 
 [params.csp]
 	childsrc = ["'self'"]
