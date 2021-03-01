@@ -13,8 +13,8 @@ series = []
 
 Hey everyone! My name is Will and I'm an engineer based near Bristol, in the UK. 
 
-The reason I started this space was to write about what I've been doing and am currently doing in work and in my spare time. As well as to provide resources for people who want to start long and happy careers in technology. I will also help demystify some common terms that fly around in the industry (what the heck is a hackathon? a sprint? a unicorn?)
+The reason I started this space was to write about what I've been doing and am currently doing in work and in my spare time. The goal is to show my thoughts/thinking on what I get up to, and provide advice where appropriate for people who want to start long and happy careers in technology.
 
-But I may as well have fun with it, and write these blog things as well. It’s the closest I will come to writing a diary.
+Blogging is entirely new to me, so be kind, but now I bought this domain I may as well do something with it right?
 
 Will
