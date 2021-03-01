@@ -7,7 +7,7 @@ Hello there! My name is Will, I'm a backend software engineer based near Bristol
 
 I'm also currently looking for a new role that is both challenging and rewarding, within a great team of enthusiastic and passionate individuals!
 
-While at work, I design and build big data storage, query and analytics platforms in the Civil Service to support technical analysts, as well as maintain and improve legacy systems. The main technologies I work with/have experience in are as follows (but this is by no means a definitive list, I'm always looking to learn new skills and technologies!):
+While at work, I design and build big data storage, query and analytics platforms to support technical analysts, as well as maintain and improve legacy systems. The main technologies I work with/have experience in are as follows (but this is by no means a definitive list, I'm always looking to learn new skills and technologies!):
 
 - Java/SpringBoot
 - Python
